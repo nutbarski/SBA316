@@ -1,0 +1,10 @@
+/* makes sure to remove built in margins */
+body,
+html {
+
+    padding: 0;
+}
+
+.webpageContainer {
+    
+}
